@@ -1,0 +1,29 @@
+{
+  "name": "Nandipha ",
+  "description": "Software Developer and Enthusiastic Tutor with a Diploma in Software Development (2025) - Eager to Empower and Inspire Through Technology Education. ",
+  "imgSrc": "https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp",
+  "aboutDescription": "Hello! I'm Nandipha Maholwana, a passionate and aspiring software developer currently pursuing my studies in Software Development. My journey in the world of coding started with a curiosity about how things work behind the scenes in the digital world, and it has since grown into a full-fledged passion.",
+  "education": [
+    {
+      "institution": "Rosebank College",
+      "degree": "Diploma in IT and Software Development",
+      "years": "2022-2025"
+    }
+  ],
+  "cvlink": "src/assets/2024 C.V.pdf",
+  "skills": [
+    "Programming",
+    "Computing",
+    "Data Presentation",
+    "Excellent communication",
+    "Organized",
+    "Microsoft Excel",
+    "Microsoft PowerPoint"
+  ],
+  "contact": {
+    "email": "nandiholly@gmail.com",
+    "location": "Alberton,  Johannesburg",
+    "linkedin": "https://www.linkedin.com/",
+    "github": "https://github.com/"
+  }
+}
